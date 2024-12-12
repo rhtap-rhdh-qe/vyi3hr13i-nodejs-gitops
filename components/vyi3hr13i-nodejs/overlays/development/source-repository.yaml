@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vyi3hr13i-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/vyi3hr13i-nodejs
